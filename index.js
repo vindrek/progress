@@ -1267,8 +1267,7 @@ var RoundProgressModule = (function () {
     RoundProgressModule.decorators = [
         { type: NgModule, args: [{
                     imports: [
-                        CommonModule,
-                        BrowserModule
+                        CommonModule
                     ],
                     declarations: [
                         RoundProgressComponent,
